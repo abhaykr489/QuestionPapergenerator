@@ -1,0 +1,289 @@
+[
+  {
+    "question": "What is Newton's first law of motion?",
+    "subject": "Physics",
+    "topic": "Classical Mechanics",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Define momentum.",
+    "subject": "Physics",
+    "topic": "Classical Mechanics",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the SI unit of force?",
+    "subject": "Physics",
+    "topic": "Dynamics",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Explain the concept of acceleration.",
+    "subject": "Physics",
+    "topic": "Kinematics",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Define work in terms of physics.",
+    "subject": "Physics",
+    "topic": "Energy and Work",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "A car travels with a constant speed of 30 m/s for 20 seconds. How far does it travel?",
+    "subject": "Physics",
+    "topic": "Kinematics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Calculate the electrical resistance of a wire with a voltage of 12V and a current of 3A.",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "A pendulum has a length of 2m. Calculate its period if g (acceleration due to gravity) is 9.8 m/s².",
+    "subject": "Physics",
+    "topic": "Wave Motion",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Calculate the force of attraction between two objects of mass 5 kg and 10 kg separated by a distance of 2 meters.",
+    "subject": "Physics",
+    "topic": "Gravitation",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Calculate the energy released in a nuclear fusion reaction involving 4 grams of hydrogen into helium.",
+    "subject": "Physics",
+    "topic": "Nuclear Physics",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+
+  {
+    "question": "What is the atomic number of carbon?",
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "subject": "Chemistry",
+    "topic": "Elements",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the formula for water?",
+    "subject": "Chemistry",
+    "topic": "Chemical Compounds",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Define pH in terms of chemistry.",
+    "subject": "Chemistry",
+    "topic": "Acids and Bases",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the process of converting a solid directly into a gas called?",
+    "subject": "Chemistry",
+    "topic": "States of Matter",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+
+  {
+    "question": "Calculate the molar mass of methane (CH4).",
+    "subject": "Chemistry",
+    "topic": "Mole Concept",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Calculate the concentration of a solution with 25 grams of salt dissolved in 500mL of water.",
+    "subject": "Chemistry",
+    "topic": "Solutions",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "What is the balanced chemical equation for the combustion of methane?",
+    "subject": "Chemistry",
+    "topic": "Chemical Reactions",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Calculate the number of moles in 24 grams of magnesium.",
+    "subject": "Chemistry",
+    "topic": "Mole Concept",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "What is the volume of 3 moles of oxygen gas at STP (Standard Temperature and Pressure)?",
+    "subject": "Chemistry",
+    "topic": "Gas Laws",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+
+  {
+    "question": "Calculate the enthalpy change for a reaction if 200 grams of water is heated from 25°C to 100°C.",
+    "subject": "Chemistry",
+    "topic": "Thermochemistry",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Explain the concept of Gibbs Free Energy and its significance in chemical reactions.",
+    "subject": "Chemistry",
+    "topic": "Chemical Thermodynamics",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Calculate the pH of a 0.01 M hydrochloric acid solution.",
+    "subject": "Chemistry",
+    "topic": "Acids and Bases",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "What is the half-life of a radioactive isotope if its decay constant is 0.04 per year?",
+    "subject": "Chemistry",
+    "topic": "Nuclear Chemistry",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Calculate the equilibrium constant (Kc) for a reaction if the concentration of products is 0.2 M and reactants is 0.5 M.",
+    "subject": "Chemistry",
+    "topic": "Chemical Equilibrium",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+
+  {
+    "question": "What is the value of 5 + 7?",
+    "subject": "Mathematics",
+    "topic": "Basic Arithmetic",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Solve: 3 * 4 = ?",
+    "subject": "Mathematics",
+    "topic": "Basic Operations",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Calculate the area of a rectangle with length 8 and width 5.",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the result of 20 divided by 4?",
+    "subject": "Mathematics",
+    "topic": "Basic Operations",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "If x = 5 and y = 3, find the value of x + y.",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+
+  {
+    "question": "Solve: 2x + 5 = 15",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Calculate the perimeter of a square with side length 8 units.",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Find the value of √(25 * 4).",
+    "subject": "Mathematics",
+    "topic": "Arithmetic",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "If a triangle has angles measuring 45°, 45°, and 90°, what is the measure of the third angle?",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Solve the equation: 3y - 7 = 11",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+
+  {
+    "question": "If a circle has a radius of 6 units, what is its circumference? (Use π = 3.14)",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Solve the quadratic equation: x² - 6x + 9 = 0",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "What is the derivative of f(x) = 3x² + 4x - 2?",
+    "subject": "Mathematics",
+    "topic": "Calculus",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "If log₂(x) = 5, find the value of x.",
+    "subject": "Mathematics",
+    "topic": "Logarithms",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Simplify: (sin²θ + cos²θ) / (1 + tan²θ)",
+    "subject": "Mathematics",
+    "topic": "Trigonometry",
+    "difficulty": "Hard",
+    "marks": 15
+  }
+  
+]
